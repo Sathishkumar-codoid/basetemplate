@@ -1,3 +1,3 @@
-class APIUrlManager{
-
+class AppUrlManager{
+static const baseUrl="https://";
 }
